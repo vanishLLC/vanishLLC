@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-### - I'm 15 years old & Junior developer from Poland.
+### - I'm 15 years old Junior developer from Poland.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/3jUnChVexisAAAAC/ai-ohto.gif">
 
