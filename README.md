@@ -85,4 +85,14 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 <img hight="400" width="500" alt="PNG" align="right" src="https://camo.githubusercontent.com/25cebc5cae4a01ff5d3e1199aac7e4b83bcf1d341f6313173a994727d17a3ecb/68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67">
 
-[Vanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanishLLC)]
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VanishLLC&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VanishLLC&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanishLLCa&show_icons=true" />
+</picture>
