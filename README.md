@@ -24,7 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[!(https://skillicons.dev/icons?i=ae,arch,discordjs,react,idea,ps,pr,py,vscode,java)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=ae,arch,discordjs,react,idea,ps,pr,py,vscode,java)](https://skillicons.dev)<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanishllc&show_icons=true&locale=en&layout=compact" alt="vanishllc" /></p>
 
